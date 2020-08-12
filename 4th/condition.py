@@ -15,6 +15,7 @@ elif (score == 70):
     print("hello")
 
 else:
+    pass
 
 # print(grade)
 
